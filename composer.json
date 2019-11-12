@@ -1,0 +1,14 @@
+{
+    "name": "ibracilinks/ziparchive",
+    "description": "PHP zip utility for file compression, extraction and backup",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ibrahim CISSE",
+            "email": "ibraci1960@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
