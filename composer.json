@@ -5,10 +5,15 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Ibrahim CISSE",
-            "email": "ibraci1960@gmail.com"
+            "name": "Ibraci Links",
+            "email": "hello@ibracilinks.com"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ibracilinks\\ZipArchive": "src"
+        }
+    }
 }
