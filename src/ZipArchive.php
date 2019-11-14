@@ -1,6 +1,6 @@
 <?php
 
-ZipArchive implements Countable {
+class ZipArchive implements Countable {
     /* Properties */
     int $status;
     int $statusSys;

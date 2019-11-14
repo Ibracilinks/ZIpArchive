@@ -11,9 +11,10 @@
     ],
     "minimum-stability": "dev",
     "require": {},
+
     "autoload": {
         "psr-4": {
-            "Ibracilinks\\ZipArchive": "src"
+            "Ibracilinks\\ZipArchive\\": "src"
         }
     }
 }
