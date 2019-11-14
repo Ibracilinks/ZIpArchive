@@ -7,7 +7,7 @@ PHP ZipArchive class
 * Use following command to install:
 
 ```bash
-composer require ibracilinks/ziparchivessss
+composer require ibracilinks/ziparchive
 ```
 
 ## Usage
