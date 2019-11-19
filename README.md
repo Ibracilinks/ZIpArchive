@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ibracilinks.com"><img src="https://ibracilinks.com/assets/images/logo.jpg"></a></p>
+<p align="center"><a href="https://ibracilinks.com"><img src="https://ibracilinks.com/assets/images/logo.jpg" width="180"></a></p>
 <p align="center">
 
 PHP ZipArchive class
